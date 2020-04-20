@@ -2,9 +2,9 @@
   "manifest_version": 2,
   "name": "gContactSync",
   "description": "Synchronizes Google Contacts with Thunderbird",
-  "version": "3.1.7",
-  "author": "Josh Geenen",
-  "homepage_url": "https://www.pirules.org/addons/gcontactsync/",
+  "version": "3.1.8",
+  "author": "Mike Vastola (formerly Josh Geenen)",
+  "homepage_url": "https://gcontactsync.github.io/",
   "legacy" : {
     "options" : {
       "page" : "chrome://gcontactsync/content/options.xul",

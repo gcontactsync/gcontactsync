@@ -52,8 +52,8 @@ false);
  * @class
  */
 gContactSync.gdata = {
-  CLIENT_ID:                  "874495714229-5m7jmsjebv6nrf61q14siutq43bi1gvt.apps.googleusercontent.com",
-  CLIENT_SECRET:              "vayAK3lt9f4tMcMK1HZ4XZqG",
+  CLIENT_ID:                  "603029011356-up753ufsd868svts5sb950a9f3qgtmv1.apps.googleusercontent.com",
+  CLIENT_SECRET:              "y_IL513yL76ZKwZVm5p3wTF-",
   REDIRECT_URI:               "urn:ietf:wg:oauth:2.0:oob",
   REDIRECT_TITLE:             "Success code=",
   RESPONSE_TYPE:              "code",
